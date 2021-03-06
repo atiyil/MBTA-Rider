@@ -23,3 +23,4 @@ Unzip the package and run `python3 mbta_rider.py`
 - The application can be converted to a pip package for easy installation and support. `setup.py` must be defined
 - While extending this project, library and utility functions can be defined in `lib` folder and automated tests can be added to `tests` folder
 - The command line application can be converted to a web application using `flask` or `django` for better user interaction
+- More automated tests must be added
